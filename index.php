@@ -120,7 +120,6 @@
                             </div>
                         </div>
                     </div>
-                    <div class="panel-footer"><small>© <?= date('Y') ?> <a href="https://harviacode.com" target="_blank">Harviacode</a></small></div>
                 </div>
             </div>
         </div>
